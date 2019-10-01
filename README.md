@@ -4,7 +4,7 @@
 
 ## 笔记
 
-- Lesson1 图像分类 [**lesson1.xmind**](./lesson1.xmind)
+- Lesson1 图像分类 [下载](./xmind/lesson1.xmind)
 
 ## 代码
 
