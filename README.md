@@ -8,6 +8,7 @@ Making neural nets uncool again
 ## 仓库简介
 Chinese Xmind Notes for Fastai v3  
 Fastai v3 中文xmind笔记
+<img src="./notebook/assests/lesson3/lesson3xmind.jpg" width="200">
 [![](./notebook/assests/lesson3/lesson3xmind.jpg)](./xmind/)
 ## 笔记
 
