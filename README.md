@@ -1,9 +1,17 @@
 # fast.ai v3 学习笔记xmind、代码
+
+## [**fast.ai**](http://www.fast.ai)  
+Making neural nets uncool again
 - fastai Github：  [fastai](https://github.com/fastai/fastai) 
 - 课程地址：  https://course.fast.ai
+
+## 仓库简介
+Chinese Xmind Notes for Fastai v3  
+Fastai v3 中文xmind笔记
 ## 笔记
 
 - Lesson1 图像分类 [[下载]](./xmind/lesson1.xmind)
+- Lesson3 多标签分类 语义分割 回归 [[下载]](./xmind/lesson3.xmind)
 
 ## 代码
 
