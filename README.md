@@ -1,7 +1,6 @@
 # fast.ai 学习笔记xmind、代码
-- 课程地址 **fastai v3**：  https://course.fast.ai
-- fastai **Github**：  [fastai](https://github.com/fastai/fastai) 
-
+- fastai Github：  [fastai](https://github.com/fastai/fastai) 
+- 课程地址：  https://course.fast.ai
 ## 笔记
 
 - Lesson1 图像分类 [下载](./xmind/lesson1.xmind)
