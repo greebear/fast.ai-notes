@@ -2,10 +2,12 @@
 
 ## [**fast.ai**](http://www.fast.ai)  
 Making neural nets uncool again
-- fastai Github：  [fastai](https://github.com/fastai/fastai) 
+- Github：  [fastai](https://github.com/fastai/fastai) 
 - 课程地址：  https://course.fast.ai
 
 ## 仓库简介
+<p align="center"><a href="https://github.com/greebear"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-greebear-blue.svg"></a></p>  
+
 Chinese Xmind Notes for Fastai v3  
 Fastai v3 中文xmind笔记  
 
