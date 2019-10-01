@@ -1,4 +1,4 @@
-# fast.ai 学习笔记xmind、代码
+# fast.ai v3 学习笔记xmind、代码
 - fastai Github：  [fastai](https://github.com/fastai/fastai) 
 - 课程地址：  https://course.fast.ai
 ## 笔记
