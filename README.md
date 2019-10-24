@@ -25,6 +25,6 @@ Fastai v3 中文xmind笔记
 - Lesson3-01-多标签分类-卫星图像数据(Kaggle) [[预览]](https://nbviewer.jupyter.org/github/greebear/fast.ai-notes/blob/master/notebook/lesson3-01-%E5%A4%9A%E6%A0%87%E7%AD%BE%E5%88%86%E7%B1%BB-%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E6%95%B0%E6%8D%AE(Kaggle).ipynb)
 - Lesson3-02-语义分割-汽车驾驶语义图像数据(剑桥大学) [[预览]](https://nbviewer.jupyter.org/github/greebear/fast.ai-notes/blob/master/notebook/lesson3-02-%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-%E6%B1%BD%E8%BD%A6%E9%A9%BE%E9%A9%B6%E8%AF%AD%E4%B9%89%E5%9B%BE%E5%83%8F%E6%95%B0%E6%8D%AE(%E5%89%91%E6%A1%A5%E5%A4%A7%E5%AD%A6).ipynb)
 - Lesson3-03-回归-头部姿态预测 [[预览]](https://nbviewer.jupyter.org/github/greebear/fast.ai-notes/blob/master/notebook/lesson3-03-%E5%9B%9E%E5%BD%92-%E5%A4%B4%E9%83%A8%E5%A7%BF%E6%80%81%E9%A2%84%E6%B5%8B.ipynb)
-- Lesson6-01-数据清理-Rossmann便利店数据(Kaggle) [[预览]]()
-- Lesson6-01-销量预测-Rossmann便利店数据(Kaggle) [[预览]]()
+- Lesson6-01-数据清理-Rossmann便利店数据(Kaggle) [[预览]](https://nbviewer.jupyter.org/github/greebear/fast.ai-notes/blob/master/notebook/lesson6-01-%E6%95%B0%E6%8D%AE%E6%B8%85%E7%90%86-Rossmann%E4%BE%BF%E5%88%A9%E5%BA%97%E6%95%B0%E6%8D%AE%28Kaggle%29.ipynb)
+- Lesson6-01-销量预测-Rossmann便利店数据(Kaggle) [[预览]](https://nbviewer.jupyter.org/github/greebear/fast.ai-notes/blob/master/notebook/lesson6-01-%E9%94%80%E9%87%8F%E9%A2%84%E6%B5%8B-Rossmann%E4%BE%BF%E5%88%A9%E5%BA%97%E6%95%B0%E6%8D%AE%28Kaggle%29.ipynb)
 - Lesson6-02-生成图像预测热力图 [[预览]](https://nbviewer.jupyter.org/github/greebear/fast.ai-notes/blob/master/notebook/lesson6-02-%E7%94%9F%E6%88%90%E5%9B%BE%E5%83%8F%E9%A2%84%E6%B5%8B%E7%83%AD%E5%8A%9B%E5%9B%BE.ipynb)
