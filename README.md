@@ -18,6 +18,7 @@ Fastai v3 中文xmind笔记
 - Lesson1 图像分类 [[下载]](./xmind/lesson1.xmind)
 - Lesson3 多标签分类 语义分割 回归 [[下载]](./xmind/lesson3.xmind)
 - Lesson6 正则化 卷积 数据伦理 [[下载]](./xmind/lesson3.xmind)
+- Lesson7 Resnet U-net 生成网络 GANs [[下载]](./xmind/lesson7.xmind)
 
 ## notebook
 
